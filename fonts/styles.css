@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Inter-Light";
+  src: url(./Inter-Light.woff) format("woff"), url(./Inter-Light.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Inter-SemiBold";
+  src: url(./Inter-SemiBold.woff) format("woff"),
+    url(./Inter-SemiBold.woff2) format("woff2");
+}
